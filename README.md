@@ -1,2 +1,5 @@
 # hackerrank_answers
-Answers to Hackerrank problems. Respostas pra problemas do Hackerrank.
+Answers to Hackerrank problems in Python. 
+
+
+Respostas pra problemas do Hackerrank em Python.
